@@ -1,0 +1,27 @@
+body{
+    /* text-align: center; */
+    background-color:burlywood;
+}
+#headerSection{
+    margin-top: 10%;
+    
+}
+#headerSection h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+input{
+   padding: 10px;
+   border-radius: 5px;
+   font-size: medium;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+#button{
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+}
